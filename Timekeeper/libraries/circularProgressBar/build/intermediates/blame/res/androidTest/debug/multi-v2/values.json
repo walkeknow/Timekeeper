@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kewal/AndroidStudioProjects/College Project/Timekeeper/libraries/circularProgressBar/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/kewal/AndroidStudioProjects/College Project/Timekeeper/libraries/circularProgressBar/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,4,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,542,1032",
+                        "endLines": "2,13,23",
+                        "endColumns": "62,12,12",
+                        "endOffsets": "113,1027,1517"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/kewal/AndroidStudioProjects/College Project/Channelize-master/libraries/circularProgressBar/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/kewal/AndroidStudioProjects/College Project/Channelize-master/libraries/circularProgressBar/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,4,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,542,1032",
+                        "endLines": "2,13,23",
+                        "endColumns": "62,12,12",
+                        "endOffsets": "113,1027,1517"
+                    }
+                }
+            ]
+        }
+    ]
+}
