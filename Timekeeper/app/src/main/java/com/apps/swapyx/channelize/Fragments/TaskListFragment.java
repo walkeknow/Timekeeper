@@ -268,12 +268,12 @@ public class TaskListFragment extends Fragment {
             Intent aboutIntent = new Intent(getActivity(), AboutActivity.class);
             startActivity(aboutIntent);
             return true;
-        }else if (id == R.id.action_rate_app){
-            rateThisApp();
+        }/*else if (id == R.id.action_rate_app){
+            //rateThisApp();
         }else if (id == R.id.action_send_feedback) {
-            sendFeedback();
+            //sendFeedback();
             return true;
-        }
+        }*/
         return super.onOptionsItemSelected(item);
     }
 

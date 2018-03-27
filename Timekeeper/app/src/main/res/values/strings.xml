@@ -83,8 +83,8 @@
     <!-- About Activity -->
     <string name="title_activity_about">About</string>
     <string name="version">Version 1.0.0</string>
-    <string name="developer">Developer</string>
-    <string name="developer_name">Swapnil Madavi</string>
+    <string name="developer">Developers</string>
+    <string name="developer_name">Kewal Shah, Adhishree Ranpura, Dhvani Shinde</string>
     <string name="licenses_heading">Open Source Licenses</string>
     <string name="rate_app">Rate this app</string>
     <string name="dicard">DISCARD</string>

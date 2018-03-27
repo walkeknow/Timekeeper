@@ -16,10 +16,6 @@ import com.apps.swapyx.channelize.R;
 
 import java.util.List;
 
-/**
- * Created by SwapyX on 24-07-2017.
- */
-
 public class CompletedTasksAdapter extends RecyclerView.Adapter<CompletedTasksAdapter.CompletedTasksViewHolder> {
     private List<ToDoItem> completedTasksArrayList;
     private Context context;

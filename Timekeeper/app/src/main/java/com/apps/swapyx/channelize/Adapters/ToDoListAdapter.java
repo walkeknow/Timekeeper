@@ -24,10 +24,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
-/**
- * Created by SwapyX on 08-07-2017.
- */
-
 public class ToDoListAdapter extends RecyclerView.Adapter<ToDoListAdapter.ToDoListViewHolder> {
     private List<ToDoItem> toDoItemArrayList;
     private Context context;

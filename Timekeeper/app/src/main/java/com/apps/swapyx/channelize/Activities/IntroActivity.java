@@ -9,10 +9,6 @@ import com.github.paolorotolo.appintro.AppIntro2;
 import com.github.paolorotolo.appintro.AppIntroFragment;
 import com.github.paolorotolo.appintro.model.SliderPage;
 
-/**
- * Created by SwapyX on 03-08-2017.
- */
-
 public class IntroActivity extends AppIntro2 {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

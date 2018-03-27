@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                 if(timerMode == TimerMode.WORK){
                     mToolbarMain.setBackgroundColor(ContextCompat.getColor(MainActivity.this,R.color.colorPrimary));
                 }else if(timerMode == TimerMode.BREAK){
-                    mToolbarMain.setBackgroundColor(ContextCompat.getColor(MainActivity.this,R.color.colorBreak));
+                    // mToolbarMain.setBackgroundColor(ContextCompat.getColor(MainActivity.this,R.color.colorBreak));
                 }
             }
         });

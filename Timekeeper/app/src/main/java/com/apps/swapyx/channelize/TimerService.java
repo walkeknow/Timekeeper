@@ -34,11 +34,6 @@ import java.util.concurrent.TimeUnit;
 
 import static android.app.AlarmManager.ELAPSED_REALTIME_WAKEUP;
 
-
-/**
- * Created by SwapyX on 13-06-2017.
- */
-
 public class TimerService extends Service{
     //Constants
     private static final String TAG = TimerService.class.getSimpleName();

@@ -73,7 +73,6 @@ public class AppNotifications {
         }else{
             message = context.getString(R.string.break_over);
         }
-
         return message;
     }
 
@@ -84,7 +83,6 @@ public class AppNotifications {
         }else{
             message = context.getString(R.string.resume_work);
         }
-
         return message;
     }
 }

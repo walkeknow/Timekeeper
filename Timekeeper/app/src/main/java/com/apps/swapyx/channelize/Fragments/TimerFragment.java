@@ -201,7 +201,7 @@ public class TimerFragment extends Fragment implements
             Intent settingsIntent = new Intent(getActivity(), SettingsActivity.class);
             startActivity(settingsIntent);
             return true;
-        }else if (id == R.id.action_free_task){
+        }/*else if (id == R.id.action_free_task){
             // Set Free task as current task
             if(FocusTaskChangedEvent.currentFocusTask.getToDoId() == 99999){
                 Toast.makeText(getActivity(),"Free task already selected",Toast.LENGTH_SHORT).show();
@@ -216,7 +216,7 @@ public class TimerFragment extends Fragment implements
             }
 
             return true;
-        }
+        }*/
 
         return super.onOptionsItemSelected(item);
     }

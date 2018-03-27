@@ -1,9 +1,5 @@
 package com.apps.swapyx.channelize;
 
-/**
- * Created by SwapyX on 08-07-2017.
- */
-
 public class ToDoItem {
     private long toDoId;
     private int secondsWorked;

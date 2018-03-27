@@ -7,10 +7,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 import com.apps.swapyx.channelize.Fragments.TaskListFragment;
 import com.apps.swapyx.channelize.Fragments.TimerFragment;
 
-/**
- * Created by SwapyX on 24-07-2017.
- */
-
 public class SwipeAdapter extends FragmentPagerAdapter {
     public SwipeAdapter(FragmentManager fm) {
         super(fm);
