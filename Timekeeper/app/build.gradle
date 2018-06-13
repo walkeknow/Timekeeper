@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     // buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.apps.swapyx.channelize"
+        applicationId "com.apps.semfourproject.timekeeper"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 2

@@ -23,7 +23,7 @@ In addition to the timer, the app provides a task list to organize your tasks.
 Channelize is not affiliated with, associated with or endorsed by the Pomodoro Technique® or Francesco Cirillo.
 The Pomodoro Technique® and Pomodoro™ are registered and filed trademarks of Francesco Cirillo
 
-<a href='https://play.google.com/store/apps/details?id=com.apps.swapyx.channelize&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+<a href='https://play.google.com/store/apps/details?id=semfourproject.channelize&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
 <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%" height="30%"/></a>
 
 Copyright 2017 Swapnil Madavi<br>
